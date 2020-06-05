@@ -1,6 +1,6 @@
 <h1>Calculadora-de-Cubagem</h1>
 
-Aplicação criada para o aprendizado da linguagem de progrmação C#.
+Aplicação criada para o aprendizado da linguagem de programação C#.
 
 A aplicação foi uma forma de converter uma planilha em excel que realizava o cálculo para um programa na qual facilita a geração do coeficiente a ser usado na aplicação de ecommerce da plataforma [ezcommerce](https://www.agenciaeplus.com.br/ez-commerce-e-adquirida-pela-linx/)
 
