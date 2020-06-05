@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\calculadoraCub\calculadoraCub\bin\Debug\calculadoraCub.exe.config
+C:\Users\Diego\source\repos\calculadoraCub\calculadoraCub\bin\Debug\calculadoraCub.exe
+C:\Users\Diego\source\repos\calculadoraCub\calculadoraCub\bin\Debug\calculadoraCub.pdb
+C:\Users\Diego\source\repos\calculadoraCub\calculadoraCub\obj\Debug\calculadoraCub.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\calculadoraCub\calculadoraCub\obj\Debug\calculadoraCub.calculCubagem.resources
+C:\Users\Diego\source\repos\calculadoraCub\calculadoraCub\obj\Debug\calculadoraCub.Properties.Resources.resources
+C:\Users\Diego\source\repos\calculadoraCub\calculadoraCub\obj\Debug\calculadoraCub.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\calculadoraCub\calculadoraCub\obj\Debug\calculadoraCub.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\calculadoraCub\calculadoraCub\obj\Debug\calculadoraCub.exe
+C:\Users\Diego\source\repos\calculadoraCub\calculadoraCub\obj\Debug\calculadoraCub.pdb
